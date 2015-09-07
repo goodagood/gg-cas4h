@@ -1,6 +1,10 @@
 node_modules/
 bower_components/
+<<<<<<< HEAD
 .git/
+=======
+.git
+>>>>>>> origin/master
 # vim swap files:
 *~
 *.swp

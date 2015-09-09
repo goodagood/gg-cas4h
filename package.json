@@ -1,0 +1,23 @@
+{
+  "name": "gg-cas4h",
+  "version": "0.0.1",
+  "description": "creative accumulative system for human",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodagood/gg-cas4h.git"
+  },
+  "keywords": [
+    "goodagood",
+    "goodogood"
+  ],
+  "author": "andrew",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/goodagood/gg-cas4h/issues"
+  },
+  "homepage": "https://github.com/goodagood/gg-cas4h#readme"
+}
